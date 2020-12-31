@@ -1,0 +1,6 @@
+myfile = open('d:/nim.txt','w')
+myfile.write('K3518001/n')
+myfile.write('amir/n')
+myfile.write('solo/n')
+myfile.close()
+print(myfile.write)
